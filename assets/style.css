@@ -1,0 +1,55 @@
+#my-navbar {
+  background-color: brown;
+}
+
+#my-header {
+  color: #ffffff;
+  background-image: url(./backgroundStrip_dark.png);
+  text-align: left;
+  background-position: center;
+}
+
+body {
+ background-attachment: fixed;
+ background-image: url("./headphones_minimalism_pastel_122007_1920x1080_dark.png");
+ background-position: 50% 30%;
+ color:#939393;
+ font-weight: 600;
+}
+
+#my-content {
+  text-align: center;
+}
+#my-contact {
+  
+}
+#my-contact-body {
+  height: 40vh;
+}
+
+#my-profilePic {
+  /* text-align: center; */
+  height: 35vh;
+  /* padding: auto; */
+  border: 0px;
+  background: transparent !important;
+}
+
+#my-footer {
+  /* text-align: center; */
+  position: fixed;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  background-image: url(./backgroundStrip_dark.png);
+  background-position: center;
+  text-align: center;
+  color: #939393;
+  font-weight: 600;
+}
+
+#my-portfolio-pic {
+  width: 90%;
+  height: 30vh;
+  overflow: hidden;
+}
